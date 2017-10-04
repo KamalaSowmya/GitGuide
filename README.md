@@ -1,2 +1,1 @@
-# GitGuide
-First project for understanding the Git usage.
+change 1
